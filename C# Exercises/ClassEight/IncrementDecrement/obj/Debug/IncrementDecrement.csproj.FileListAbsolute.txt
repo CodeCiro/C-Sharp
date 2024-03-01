@@ -1,0 +1,8 @@
+C:\Users\leperse\source\repos\ClassEight\IncrementDecrement\obj\Debug\IncrementDecrement.csproj.AssemblyReference.cache
+C:\Users\leperse\source\repos\ClassEight\IncrementDecrement\obj\Debug\IncrementDecrement.csproj.SuggestedBindingRedirects.cache
+C:\Users\leperse\source\repos\ClassEight\IncrementDecrement\obj\Debug\IncrementDecrement.csproj.CoreCompileInputs.cache
+C:\Users\leperse\source\repos\ClassEight\IncrementDecrement\bin\Debug\IncrementDecrement.exe.config
+C:\Users\leperse\source\repos\ClassEight\IncrementDecrement\bin\Debug\IncrementDecrement.exe
+C:\Users\leperse\source\repos\ClassEight\IncrementDecrement\bin\Debug\IncrementDecrement.pdb
+C:\Users\leperse\source\repos\ClassEight\IncrementDecrement\obj\Debug\IncrementDecrement.exe
+C:\Users\leperse\source\repos\ClassEight\IncrementDecrement\obj\Debug\IncrementDecrement.pdb

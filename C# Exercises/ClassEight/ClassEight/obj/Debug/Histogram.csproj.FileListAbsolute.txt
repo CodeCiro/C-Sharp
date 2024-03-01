@@ -1,0 +1,8 @@
+C:\Users\leperse\source\repos\ClassEight\ClassEight\bin\Debug\ClassEight.exe.config
+C:\Users\leperse\source\repos\ClassEight\ClassEight\bin\Debug\ClassEight.exe
+C:\Users\leperse\source\repos\ClassEight\ClassEight\bin\Debug\ClassEight.pdb
+C:\Users\leperse\source\repos\ClassEight\ClassEight\obj\Debug\Histogram.csproj.AssemblyReference.cache
+C:\Users\leperse\source\repos\ClassEight\ClassEight\obj\Debug\Histogram.csproj.SuggestedBindingRedirects.cache
+C:\Users\leperse\source\repos\ClassEight\ClassEight\obj\Debug\Histogram.csproj.CoreCompileInputs.cache
+C:\Users\leperse\source\repos\ClassEight\ClassEight\obj\Debug\ClassEight.exe
+C:\Users\leperse\source\repos\ClassEight\ClassEight\obj\Debug\ClassEight.pdb

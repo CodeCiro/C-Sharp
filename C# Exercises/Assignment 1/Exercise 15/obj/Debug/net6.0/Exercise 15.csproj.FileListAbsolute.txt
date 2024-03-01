@@ -1,0 +1,30 @@
+C:\Users\Asus\source\repos\Practice 09-09\Exercise 2\Exercise 15\bin\Debug\net6.0\Exercise 15.exe
+C:\Users\Asus\source\repos\Practice 09-09\Exercise 2\Exercise 15\bin\Debug\net6.0\Exercise 15.deps.json
+C:\Users\Asus\source\repos\Practice 09-09\Exercise 2\Exercise 15\bin\Debug\net6.0\Exercise 15.runtimeconfig.json
+C:\Users\Asus\source\repos\Practice 09-09\Exercise 2\Exercise 15\bin\Debug\net6.0\Exercise 15.dll
+C:\Users\Asus\source\repos\Practice 09-09\Exercise 2\Exercise 15\bin\Debug\net6.0\Exercise 15.pdb
+C:\Users\Asus\source\repos\Practice 09-09\Exercise 2\Exercise 15\obj\Debug\net6.0\Exercise 15.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Practice 09-09\Exercise 2\Exercise 15\obj\Debug\net6.0\Exercise 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Practice 09-09\Exercise 2\Exercise 15\obj\Debug\net6.0\Exercise 15.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Practice 09-09\Exercise 2\Exercise 15\obj\Debug\net6.0\Exercise 15.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Practice 09-09\Exercise 2\Exercise 15\obj\Debug\net6.0\Exercise 15.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Practice 09-09\Exercise 2\Exercise 15\obj\Debug\net6.0\Exercise 15.dll
+C:\Users\Asus\source\repos\Practice 09-09\Exercise 2\Exercise 15\obj\Debug\net6.0\refint\Exercise 15.dll
+C:\Users\Asus\source\repos\Practice 09-09\Exercise 2\Exercise 15\obj\Debug\net6.0\Exercise 15.pdb
+C:\Users\Asus\source\repos\Practice 09-09\Exercise 2\Exercise 15\obj\Debug\net6.0\Exercise 15.genruntimeconfig.cache
+C:\Users\Asus\source\repos\Practice 09-09\Exercise 2\Exercise 15\obj\Debug\net6.0\ref\Exercise 15.dll
+E:\LASALLE COLLEGE\Algorythm\Assignment 1 Preet-Ciro-Eric\Exercise 15\bin\Debug\net6.0\Exercise 15.exe
+E:\LASALLE COLLEGE\Algorythm\Assignment 1 Preet-Ciro-Eric\Exercise 15\bin\Debug\net6.0\Exercise 15.deps.json
+E:\LASALLE COLLEGE\Algorythm\Assignment 1 Preet-Ciro-Eric\Exercise 15\bin\Debug\net6.0\Exercise 15.runtimeconfig.json
+E:\LASALLE COLLEGE\Algorythm\Assignment 1 Preet-Ciro-Eric\Exercise 15\bin\Debug\net6.0\Exercise 15.dll
+E:\LASALLE COLLEGE\Algorythm\Assignment 1 Preet-Ciro-Eric\Exercise 15\bin\Debug\net6.0\Exercise 15.pdb
+E:\LASALLE COLLEGE\Algorythm\Assignment 1 Preet-Ciro-Eric\Exercise 15\obj\Debug\net6.0\Exercise 15.csproj.AssemblyReference.cache
+E:\LASALLE COLLEGE\Algorythm\Assignment 1 Preet-Ciro-Eric\Exercise 15\obj\Debug\net6.0\Exercise 15.GeneratedMSBuildEditorConfig.editorconfig
+E:\LASALLE COLLEGE\Algorythm\Assignment 1 Preet-Ciro-Eric\Exercise 15\obj\Debug\net6.0\Exercise 15.AssemblyInfoInputs.cache
+E:\LASALLE COLLEGE\Algorythm\Assignment 1 Preet-Ciro-Eric\Exercise 15\obj\Debug\net6.0\Exercise 15.AssemblyInfo.cs
+E:\LASALLE COLLEGE\Algorythm\Assignment 1 Preet-Ciro-Eric\Exercise 15\obj\Debug\net6.0\Exercise 15.csproj.CoreCompileInputs.cache
+E:\LASALLE COLLEGE\Algorythm\Assignment 1 Preet-Ciro-Eric\Exercise 15\obj\Debug\net6.0\Exercise 15.dll
+E:\LASALLE COLLEGE\Algorythm\Assignment 1 Preet-Ciro-Eric\Exercise 15\obj\Debug\net6.0\refint\Exercise 15.dll
+E:\LASALLE COLLEGE\Algorythm\Assignment 1 Preet-Ciro-Eric\Exercise 15\obj\Debug\net6.0\Exercise 15.pdb
+E:\LASALLE COLLEGE\Algorythm\Assignment 1 Preet-Ciro-Eric\Exercise 15\obj\Debug\net6.0\Exercise 15.genruntimeconfig.cache
+E:\LASALLE COLLEGE\Algorythm\Assignment 1 Preet-Ciro-Eric\Exercise 15\obj\Debug\net6.0\ref\Exercise 15.dll

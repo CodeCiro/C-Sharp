@@ -1,0 +1,8 @@
+C:\Users\leperse\source\repos\ClassEight\PrimitiveTypes\obj\Debug\PrimitiveTypes.csproj.AssemblyReference.cache
+C:\Users\leperse\source\repos\ClassEight\PrimitiveTypes\obj\Debug\PrimitiveTypes.csproj.SuggestedBindingRedirects.cache
+C:\Users\leperse\source\repos\ClassEight\PrimitiveTypes\obj\Debug\PrimitiveTypes.csproj.CoreCompileInputs.cache
+C:\Users\leperse\source\repos\ClassEight\PrimitiveTypes\bin\Debug\PrimitiveTypes.exe.config
+C:\Users\leperse\source\repos\ClassEight\PrimitiveTypes\bin\Debug\PrimitiveTypes.exe
+C:\Users\leperse\source\repos\ClassEight\PrimitiveTypes\bin\Debug\PrimitiveTypes.pdb
+C:\Users\leperse\source\repos\ClassEight\PrimitiveTypes\obj\Debug\PrimitiveTypes.exe
+C:\Users\leperse\source\repos\ClassEight\PrimitiveTypes\obj\Debug\PrimitiveTypes.pdb

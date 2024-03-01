@@ -1,0 +1,8 @@
+C:\Users\leperse\source\repos\ClassEight\EqualityOperators\obj\Debug\EqualityOperators.csproj.AssemblyReference.cache
+C:\Users\leperse\source\repos\ClassEight\EqualityOperators\obj\Debug\EqualityOperators.csproj.SuggestedBindingRedirects.cache
+C:\Users\leperse\source\repos\ClassEight\EqualityOperators\obj\Debug\EqualityOperators.csproj.CoreCompileInputs.cache
+C:\Users\leperse\source\repos\ClassEight\EqualityOperators\bin\Debug\EqualityOperators.exe.config
+C:\Users\leperse\source\repos\ClassEight\EqualityOperators\bin\Debug\EqualityOperators.exe
+C:\Users\leperse\source\repos\ClassEight\EqualityOperators\bin\Debug\EqualityOperators.pdb
+C:\Users\leperse\source\repos\ClassEight\EqualityOperators\obj\Debug\EqualityOperators.exe
+C:\Users\leperse\source\repos\ClassEight\EqualityOperators\obj\Debug\EqualityOperators.pdb
