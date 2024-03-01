@@ -1,0 +1,8 @@
+C:\Users\leperse\source\repos\ClassEight\List_02\obj\Debug\List_02.csproj.AssemblyReference.cache
+C:\Users\leperse\source\repos\ClassEight\List_02\obj\Debug\List_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\leperse\source\repos\ClassEight\List_02\obj\Debug\List_02.csproj.CoreCompileInputs.cache
+C:\Users\leperse\source\repos\ClassEight\List_02\bin\Debug\List_02.exe.config
+C:\Users\leperse\source\repos\ClassEight\List_02\bin\Debug\List_02.exe
+C:\Users\leperse\source\repos\ClassEight\List_02\bin\Debug\List_02.pdb
+C:\Users\leperse\source\repos\ClassEight\List_02\obj\Debug\List_02.exe
+C:\Users\leperse\source\repos\ClassEight\List_02\obj\Debug\List_02.pdb

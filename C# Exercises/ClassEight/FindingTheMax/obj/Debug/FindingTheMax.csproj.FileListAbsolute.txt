@@ -1,0 +1,8 @@
+C:\Users\leperse\source\repos\ClassEight\FindingTheMax\obj\Debug\FindingTheMax.csproj.AssemblyReference.cache
+C:\Users\leperse\source\repos\ClassEight\FindingTheMax\obj\Debug\FindingTheMax.csproj.SuggestedBindingRedirects.cache
+C:\Users\leperse\source\repos\ClassEight\FindingTheMax\obj\Debug\FindingTheMax.csproj.CoreCompileInputs.cache
+C:\Users\leperse\source\repos\ClassEight\FindingTheMax\bin\Debug\FindingTheMax.exe.config
+C:\Users\leperse\source\repos\ClassEight\FindingTheMax\bin\Debug\FindingTheMax.exe
+C:\Users\leperse\source\repos\ClassEight\FindingTheMax\bin\Debug\FindingTheMax.pdb
+C:\Users\leperse\source\repos\ClassEight\FindingTheMax\obj\Debug\FindingTheMax.exe
+C:\Users\leperse\source\repos\ClassEight\FindingTheMax\obj\Debug\FindingTheMax.pdb

@@ -1,0 +1,8 @@
+C:\Users\leperse\source\repos\ClassEight\SizeOfOperators\obj\Debug\SizeOfOperators.csproj.AssemblyReference.cache
+C:\Users\leperse\source\repos\ClassEight\SizeOfOperators\obj\Debug\SizeOfOperators.csproj.SuggestedBindingRedirects.cache
+C:\Users\leperse\source\repos\ClassEight\SizeOfOperators\obj\Debug\SizeOfOperators.csproj.CoreCompileInputs.cache
+C:\Users\leperse\source\repos\ClassEight\SizeOfOperators\bin\Debug\SizeOfOperators.exe.config
+C:\Users\leperse\source\repos\ClassEight\SizeOfOperators\bin\Debug\SizeOfOperators.exe
+C:\Users\leperse\source\repos\ClassEight\SizeOfOperators\bin\Debug\SizeOfOperators.pdb
+C:\Users\leperse\source\repos\ClassEight\SizeOfOperators\obj\Debug\SizeOfOperators.exe
+C:\Users\leperse\source\repos\ClassEight\SizeOfOperators\obj\Debug\SizeOfOperators.pdb

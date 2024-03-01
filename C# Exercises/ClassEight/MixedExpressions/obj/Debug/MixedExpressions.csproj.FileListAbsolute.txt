@@ -1,0 +1,8 @@
+C:\Users\leperse\source\repos\ClassEight\MixedExpressions\bin\Debug\MixedExpressions.exe.config
+C:\Users\leperse\source\repos\ClassEight\MixedExpressions\bin\Debug\MixedExpressions.exe
+C:\Users\leperse\source\repos\ClassEight\MixedExpressions\bin\Debug\MixedExpressions.pdb
+C:\Users\leperse\source\repos\ClassEight\MixedExpressions\obj\Debug\MixedExpressions.csproj.AssemblyReference.cache
+C:\Users\leperse\source\repos\ClassEight\MixedExpressions\obj\Debug\MixedExpressions.csproj.SuggestedBindingRedirects.cache
+C:\Users\leperse\source\repos\ClassEight\MixedExpressions\obj\Debug\MixedExpressions.csproj.CoreCompileInputs.cache
+C:\Users\leperse\source\repos\ClassEight\MixedExpressions\obj\Debug\MixedExpressions.exe
+C:\Users\leperse\source\repos\ClassEight\MixedExpressions\obj\Debug\MixedExpressions.pdb

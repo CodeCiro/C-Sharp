@@ -1,0 +1,8 @@
+C:\Users\leperse\source\repos\ClassEight\RangeBasedForLoop\obj\Debug\RangeBasedForLoop.csproj.AssemblyReference.cache
+C:\Users\leperse\source\repos\ClassEight\RangeBasedForLoop\obj\Debug\RangeBasedForLoop.csproj.SuggestedBindingRedirects.cache
+C:\Users\leperse\source\repos\ClassEight\RangeBasedForLoop\obj\Debug\RangeBasedForLoop.csproj.CoreCompileInputs.cache
+C:\Users\leperse\source\repos\ClassEight\RangeBasedForLoop\bin\Debug\RangeBasedForLoop.exe.config
+C:\Users\leperse\source\repos\ClassEight\RangeBasedForLoop\bin\Debug\RangeBasedForLoop.exe
+C:\Users\leperse\source\repos\ClassEight\RangeBasedForLoop\bin\Debug\RangeBasedForLoop.pdb
+C:\Users\leperse\source\repos\ClassEight\RangeBasedForLoop\obj\Debug\RangeBasedForLoop.exe
+C:\Users\leperse\source\repos\ClassEight\RangeBasedForLoop\obj\Debug\RangeBasedForLoop.pdb

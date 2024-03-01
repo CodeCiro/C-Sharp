@@ -1,0 +1,15 @@
+C:\Users\leperse\source\repos\thirdClass\Project_01\bin\Debug\net6.0\Project_01.exe
+C:\Users\leperse\source\repos\thirdClass\Project_01\bin\Debug\net6.0\Project_01.deps.json
+C:\Users\leperse\source\repos\thirdClass\Project_01\bin\Debug\net6.0\Project_01.runtimeconfig.json
+C:\Users\leperse\source\repos\thirdClass\Project_01\bin\Debug\net6.0\Project_01.dll
+C:\Users\leperse\source\repos\thirdClass\Project_01\bin\Debug\net6.0\Project_01.pdb
+C:\Users\leperse\source\repos\thirdClass\Project_01\obj\Debug\net6.0\Project_01.csproj.AssemblyReference.cache
+C:\Users\leperse\source\repos\thirdClass\Project_01\obj\Debug\net6.0\Project_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leperse\source\repos\thirdClass\Project_01\obj\Debug\net6.0\Project_01.AssemblyInfoInputs.cache
+C:\Users\leperse\source\repos\thirdClass\Project_01\obj\Debug\net6.0\Project_01.AssemblyInfo.cs
+C:\Users\leperse\source\repos\thirdClass\Project_01\obj\Debug\net6.0\Project_01.csproj.CoreCompileInputs.cache
+C:\Users\leperse\source\repos\thirdClass\Project_01\obj\Debug\net6.0\Project_01.dll
+C:\Users\leperse\source\repos\thirdClass\Project_01\obj\Debug\net6.0\refint\Project_01.dll
+C:\Users\leperse\source\repos\thirdClass\Project_01\obj\Debug\net6.0\Project_01.pdb
+C:\Users\leperse\source\repos\thirdClass\Project_01\obj\Debug\net6.0\Project_01.genruntimeconfig.cache
+C:\Users\leperse\source\repos\thirdClass\Project_01\obj\Debug\net6.0\ref\Project_01.dll

@@ -1,0 +1,8 @@
+C:\Users\leperse\source\repos\ClassEight\OrderingAList\obj\Debug\OrderingAList.csproj.AssemblyReference.cache
+C:\Users\leperse\source\repos\ClassEight\OrderingAList\obj\Debug\OrderingAList.csproj.SuggestedBindingRedirects.cache
+C:\Users\leperse\source\repos\ClassEight\OrderingAList\obj\Debug\OrderingAList.csproj.CoreCompileInputs.cache
+C:\Users\leperse\source\repos\ClassEight\OrderingAList\bin\Debug\OrderingAList.exe.config
+C:\Users\leperse\source\repos\ClassEight\OrderingAList\bin\Debug\OrderingAList.exe
+C:\Users\leperse\source\repos\ClassEight\OrderingAList\bin\Debug\OrderingAList.pdb
+C:\Users\leperse\source\repos\ClassEight\OrderingAList\obj\Debug\OrderingAList.exe
+C:\Users\leperse\source\repos\ClassEight\OrderingAList\obj\Debug\OrderingAList.pdb

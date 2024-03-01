@@ -1,0 +1,8 @@
+C:\Users\leperse\source\repos\ClassEight\EnterNumbers\bin\Debug\EnterNumbers.exe.config
+C:\Users\leperse\source\repos\ClassEight\EnterNumbers\bin\Debug\EnterNumbers.exe
+C:\Users\leperse\source\repos\ClassEight\EnterNumbers\bin\Debug\EnterNumbers.pdb
+C:\Users\leperse\source\repos\ClassEight\EnterNumbers\obj\Debug\EnterNumbers.csproj.AssemblyReference.cache
+C:\Users\leperse\source\repos\ClassEight\EnterNumbers\obj\Debug\EnterNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\leperse\source\repos\ClassEight\EnterNumbers\obj\Debug\EnterNumbers.csproj.CoreCompileInputs.cache
+C:\Users\leperse\source\repos\ClassEight\EnterNumbers\obj\Debug\EnterNumbers.exe
+C:\Users\leperse\source\repos\ClassEight\EnterNumbers\obj\Debug\EnterNumbers.pdb
